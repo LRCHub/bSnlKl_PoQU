@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "Bohemian Rhapsody (リマスター2011)",
+  "base_artist": "Queen",
+  "createdAt": "2025-12-23T13:20:51.375764Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bohemian Rhapsody",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/01_Bohemian_Rhapsody_Queen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bohemian Rhapsody",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/02_Bohemian_Rhapsody_Queen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bohemian Rhapsody",
+      "artist": "The Braids",
+      "has_synced": true,
+      "path": "select/03_Bohemian_Rhapsody_The_Braids.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bohemian Rhapsody",
+      "artist": "The Braids",
+      "has_synced": false,
+      "path": "select/04_Bohemian_Rhapsody_The_Braids.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bohemian Rhapsody (Stripped-Down mix)",
+      "artist": "The Braids",
+      "has_synced": false,
+      "path": "select/05_Bohemian_Rhapsody_(Stripped-Down_mix)_The_Braids.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bohemian Rhapsody (a cappella)",
+      "artist": "The Braids",
+      "has_synced": false,
+      "path": "select/06_Bohemian_Rhapsody_(a_cappella)_The_Braids.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bohemian Rhapsody (acoustic)",
+      "artist": "The Braids",
+      "has_synced": false,
+      "path": "select/07_Bohemian_Rhapsody_(acoustic)_The_Braids.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bohemian Rhapsody (radio mix)",
+      "artist": "The Braids",
+      "has_synced": false,
+      "path": "select/08_Bohemian_Rhapsody_(radio_mix)_The_Braids.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bohemian Rhapsody",
+      "artist": "Emilie Autumn",
+      "has_synced": true,
+      "path": "select/09_Bohemian_Rhapsody_Emilie_Autumn.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Big Medley: In the Flesh? / Carry On Wayward Son / Bohemian Rhapsody / Lovin', Touchin', Squeezin' / Cruise Control / Turn It On Again (Live)",
+      "artist": "Dream Theater",
+      "has_synced": false,
+      "path": "select/10_The_Big_Medley__In_the_Flesh____Carry_On_Wayward_Son___Bohemian_Rhapsody___Lovin_Dream_Theater.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bohemian Rhapsody (Live)",
+      "artist": "P!nk",
+      "has_synced": false,
+      "path": "select/11_Bohemian_Rhapsody_(Live)_P!nk.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bohemian Rhapsody",
+      "artist": "P!nk",
+      "has_synced": false,
+      "path": "select/12_Bohemian_Rhapsody_P!nk.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bohemian Rhapsody",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/13_Bohemian_Rhapsody_Queen.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bohemian Rhapsody",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/14_Bohemian_Rhapsody_Queen.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bohemian Rhapsody - Live At Milton Keynes Bowl / June 1982",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/15_Bohemian_Rhapsody_-_Live_At_Milton_Keynes_Bowl___June_1982_Queen.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bohemian Rhapsody (Live At Milton Keynes Bowl \u0000 June 1982)",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/16_Bohemian_Rhapsody_(Live_At_Milton_Keynes_Bowl_\u0000_June_1982)_Queen.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bohemian Laughter",
+      "artist": "Hooverphonic",
+      "has_synced": false,
+      "path": "select/17_Bohemian_Laughter_Hooverphonic.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Bohemian Like You",
+      "artist": "The Dandy Warhols",
+      "has_synced": true,
+      "path": "select/18_Bohemian_Like_You_The_Dandy_Warhols.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Bohemian Ballet",
+      "artist": "Deep Forest",
+      "has_synced": false,
+      "path": "select/19_Bohemian_Ballet_Deep_Forest.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "The Chronicles of a Bohemian Teenager, Pt. 1",
+      "artist": "Get Cape. Wear Cape. Fly",
+      "has_synced": false,
+      "path": "select/20_The_Chronicles_of_a_Bohemian_Teenager,_Pt._1_Get_Cape._Wear_Cape._Fly.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Bohemian Rapsody",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/21_Bohemian_Rapsody_Queen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bohemian Rhapsody",
+      "artist": "Queen",
+      "has_synced": false,
+      "path": "select/pl_01_Bohemian_Rhapsody_Queen.txt"
+    }
+  ]
+}
